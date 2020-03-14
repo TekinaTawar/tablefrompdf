@@ -2,8 +2,12 @@
 - This repository is to take out table from pdf.
 
 ## Installation
-you need to use pip to install camelot and pyPDF2
+- First use pip to install camelot and pyPDF2
 
 ## Testing
+- Click on the following link to get the file to test the script on.
 https://drive.google.com/open?id=15zSbV_NlnAAJEfUvfwm1D0VY3yIyuYup&authuser=rawata@rknec.edu&usp=drive_fs
-use this file to to test it.
+
+## Improvement needed.
+- Still not able to process complicated tables with breaked columns.
+
